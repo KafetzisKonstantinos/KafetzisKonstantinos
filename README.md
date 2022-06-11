@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KafetzisKonstantinos
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning Python and Java
-- 💞️ I’m looking to collaborate on Python projects
+- 🌱 I’m currently learning Python,Java and React
+- 💞️ I love learning new coding languages
 - 📫 How to reach me kafetzisk@gmail.com
 
 <!---
